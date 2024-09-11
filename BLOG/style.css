@@ -1,0 +1,40 @@
+body{
+    font-size: 23px;
+    font-family:monospace ;}
+
+h1{
+    color:blue;
+    text-align: center;
+    
+}
+h2{
+    color:navy
+}
+
+.container{
+    text-align: center;
+  
+}
+p{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.image{
+    height:10cm;
+    width:20cm;
+    border-radius: 20px 0px 20px 0px;
+    border-color: blue;
+    margin-top: 10px;
+}
+
+
+nav{
+  
+    background-color: rgb(96, 11, 255);
+    color:white;
+}
+.footer{
+    background-color: blue;
+    color: white;
+    
+}
